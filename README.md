@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Gregtech: New Horizons Minecraft Server => mc.dotindigo.dev
+
 <!--
 **liafalk/liafalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
