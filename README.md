@@ -1,6 +1,8 @@
-### Hi there 👋
+### ✨ Hi there ✨
 
-Gregtech: New Horizons Minecraft Server => mc.dotindigo.dev
+🌐 Personal Website (404 rn) => [dotindigo.dev](dotindigo.dev) \
+🛠️ Gregtech: New Horizons Minecraft Server => [mc.dotindigo.dev](mc.dotindigo.dev) \
+📫 How to reach me => [lia@dotindigo.dev](mailto:lia@dotindigo.dev)
 
 <!--
 **liafalk/liafalk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
