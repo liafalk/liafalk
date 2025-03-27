@@ -1,7 +1,8 @@
 ### ✨ Hi there ✨
 
 🌐 Personal Website (404 rn) => [dotindigo.dev](https://www.dotindigo.dev) \
-🛠️ Gregtech: New Horizons Minecraft Server => [mc.dotindigo.dev](mc.dotindigo.dev) \
+🛠️ Gregtech: New Horizons Minecraft Server => [gtnh.dotindigo.dev](gtnh.dotindigo.dev) \
+🛠️ Monifactory Minecraft Server => [moni.dotindigo.dev](moni.dotindigo.dev) \
 📫 How to reach me => [lia@dotindigo.dev](mailto:lia@dotindigo.dev)
 
 <!--
